@@ -20,5 +20,15 @@ A simple two-player Rock Paper Scissors game built in C. The program accepts pla
 - `rock_paper_scissors.c`
 
 ## How to Compile
-```bash
+```bash```
+gcc rock_paper_scissors.c -o rock_paper_scissors
+
+## How to Run
+
+You will need a C compiler such as `gcc` installed on your system.
+
+1. Open a terminal (or command prompt) in the folder that contains `rock_paper_scissors.c`.
+2. Compile the program:
+
+```bash```
 gcc rock_paper_scissors.c -o rock_paper_scissors
